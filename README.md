@@ -1,7 +1,7 @@
 # DistributedServer
 
-Java implimentation of a fault tolerant server for a Library book database
+Java implementation of a fault tolerant server for a Library book database
 
-The server implimentation achieves fault tolerance by replicating identical data on multiple distributed servers.
+The server implementation achieves fault tolerance by replicating identical data on multiple servers and synchronizing user requests.
 
   
